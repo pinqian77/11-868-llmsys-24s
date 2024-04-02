@@ -1,0 +1,10 @@
+
+
+
+{
+    "data_size": {
+        "train": 97976,
+        "validation": 4512,
+        "test": 100
+    }
+}
