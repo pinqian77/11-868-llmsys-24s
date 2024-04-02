@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+minitorch.egg-info/PKG-INFO
+minitorch.egg-info/SOURCES.txt
+minitorch.egg-info/dependency_links.txt
+minitorch.egg-info/top_level.txt
+tests/test_autodiff.py
+tests/test_modules_basic_student.py
+tests/test_modules_transformer_student.py
+tests/test_neural_network.py
+tests/test_nn_student.py
+tests/test_tensor_general.py
+tests/test_tensor_general_student.py
